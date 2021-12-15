@@ -21,7 +21,7 @@ Output: hello‐world
 convert("Hello, World.", "pascal")
 Output: HelloWorld
 
-convert("Hello, World.", "uppercasesnake")
+convert("Hello, World.", "uppersnake")
 Output: HELLO_WORLD
 
 ```
